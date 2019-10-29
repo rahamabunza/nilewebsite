@@ -1,0 +1,56 @@
+#first{
+	text-align: left;
+	padding: 2px;
+	background: blue;
+	text-align: left;
+
+}
+ p.hmm{
+	width: 100px;
+	height: auto;
+	background-color: blue;
+	text-align: right;
+  border: 2px  blue;
+  padding: 10px 100px 10px 100px;
+}
+.me{
+position: absolute;
+top: 0;right: 0;
+
+
+ /*text-align: right;	*/
+}
+
+.something{
+	text-align: right;
+	float: right;
+
+}
+/*.me ul
+{
+		list-style: none;
+		width: 100px;
+	height: auto;
+	background-color: blue;
+	text-align: right;
+  border: 2px  blue;
+  padding: 10px 100px 10px 100px;
+  float:right;
+
+}
+.me ul li a{
+
+	float: right;
+	color : white;
+
+}*/
+.slide-container{
+	top: -20px;
+	position: relative;
+}
+
+.mySlides {display:none;}
+
+
+
+
